@@ -1,5 +1,9 @@
 # CS 542: Generalized Aircraft Collision Avoidance Through Deep Reinforcement Learning
 
+<hr/>
+This is the very first version of the ACAS engine ever written. The vast majority of this code has been superseded by newer code but we are leaving this up here for posterity.
+
+
 This is part of our final project for <i>CS 542: An Introduction to Machine Learning</i> with Professor Kate Saenko. In this project, we extend POMDPs to aircraft collision avoidance by modifying the action space on the basis of previously inferred information about aircraft state performance, allowing us to provide highly tailored collision avoidance resolution advisories.
 
 ## Authors
